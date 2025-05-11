@@ -92,7 +92,7 @@ main {
 }
 #praw br{
     content: "";
-    margin: 1em;
+    margin: 0.5em;
     display: block;
     font-size: 24%;
 }
